@@ -1,3 +1,4 @@
+[build]
 name = "Hyde"
 license = "MIT"
 licenselink = "https://github.com/spf13/hyde/blob/master/LICENSE.md"
@@ -15,3 +16,5 @@ min_version = 0.21
     author =  "mdo"
     homepage = "http://markdotto.com/"
     repo = "https://www.github.com/mdo/hyde"
+~
+~
